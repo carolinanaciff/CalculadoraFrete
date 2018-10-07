@@ -87,6 +87,7 @@ namespace CalcFrete
         private void CalcularOK(object sender, EventArgs e)
         {
             CalcularFrete();
+            //
         }
 
         private void LimparOk(object sender, EventArgs e)
